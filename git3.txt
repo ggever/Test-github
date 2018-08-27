@@ -1,14 +1,11 @@
 dong 1
 dong so2
-<<<<<<< HEAD
 tao them giua dong 2 va 3
 dong so 3
-<<<<<<< HEAD
-=======
 dong so 3
->>>>>>> parent of 5b53e62... Update git3.txt
-=======
 gio tao them cho nay xem sao
 dong so 3
 234324
->>>>>>> 4a41b66468c5d7e194b9d098816bcc62874323f1
+gio tao them cho nay xem sao
+dong so 3
+234324
